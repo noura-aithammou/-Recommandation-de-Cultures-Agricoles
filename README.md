@@ -17,7 +17,7 @@ Le système utilise des données agronomiques et environnementales pour fournir 
 ## Technologies Utilisées
 - **Python** : Langage principal utilisé pour le traitement des données, la modélisation et le développement de l'application.  
 - **Jupyter Notebook** : Pour l'exploration des données, l'analyse statistique et la création des modèles de recommandation.  
-- **Flask** : Framework léger pour créer l'interface web permettant aux utilisateurs de saisir leurs paramètres et de visualiser les recommandations.  
+- **Gradio** : Framework léger pour créer une interface web interactive permettant aux utilisateurs de saisir leurs paramètres et de visualiser les recommandations en temps réel.  
 - **Pandas** : Pour la manipulation et l'analyse des données tabulaires.  
 - **NumPy** : Pour le calcul numérique et la manipulation de matrices et vecteurs.  
 - **scikit-learn** : Pour créer, entraîner et évaluer les modèles d'apprentissage automatique pour la recommandation des cultures.  
